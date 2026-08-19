@@ -1,5 +1,8 @@
 # mosdns WebUI 智能解析使用说明
 
+## 效果展示
+<img width="1372" height="2228" alt="image" src="https://github.com/user-attachments/assets/fb8e165f-3804-4bd7-9de8-dd8d486e4517" />
+
 ## 核心卖点：智能解析
 
 mosdns WebUI 的核心价值是智能解析。它不是简单地把所有 DNS 请求都转发到同一个上游，而是可以根据域名类型、规则资产和用户自定义规则，把不同域名交给更合适的 DNS 上游处理。以实现智能准确的99%分流
