@@ -1,6 +1,7 @@
 # mosdns WebUI 智能解析使用说明
 
 ## 效果展示
+<img width="484" height="793" alt="image" src="https://github.com/user-attachments/assets/f833840e-dccc-4c42-8970-b8748562f3f3" />
 
 
 ## 核心卖点：智能解析
